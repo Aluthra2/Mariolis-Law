@@ -1,0 +1,15 @@
+.footer {
+  background-color: #000; /* Black background */
+  color: #d4af37; /* Gold text */
+  padding: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: #d4af37; /* Gold links */
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #f1c40f; /* Lighter gold on hover */
+}

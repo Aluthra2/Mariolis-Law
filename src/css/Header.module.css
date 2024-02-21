@@ -1,0 +1,20 @@
+/* Header.module.css */
+.toolbar {
+    background-color: #000; /* Black background */
+    color: #d4af37; /* Gold text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .toolbar a {
+    color: #d4af37; /* Gold text for links */
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .toolbar a:hover {
+    color: #f1c40f; /* Lighter gold on hover */
+  }
+  
