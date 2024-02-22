@@ -1,0 +1,40 @@
+body {
+  background-color: #000; /* Black background for the whole page */
+  color: #d4af37; /* Gold text color */
+  font-family: 'Arial', sans-serif; /* Default font */
+}
+
+a {
+  color: #d4af37; /* Gold link color */
+  text-decoration: none; /* Removes underline from links */
+}
+
+a:hover {
+  color: #ffd700; /* Lighter gold color for links on hover */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d4af37; /* Slightly different shade of gold for headings */
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+h1 {
+  font-size: 2.5em; /* Example size, adjust as needed */
+}
+
+h2 {
+  font-size: 2em; /* Example size, adjust as needed */
+}
+
+h3 {
+  font-size: 1.75em; /* Example size, adjust as needed */
+}
+
+/* Continue for h4, h5, h6 as needed, adjusting font sizes accordingly */
+
+p {
+  font-size: 1em; /* Standard text size */
+  line-height: 1.6; /* Adjust line height for readability */
+  margin-bottom: 20px; /* Space between paragraphs */
+}
